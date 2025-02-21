@@ -1,13 +1,14 @@
 This is a simple project social media platform where users can register, log in, create posts, and comment on posts.
 
-
+```
 Technologies Used:
 Node.js 
 Express.js 
 Sequelize 
 JWT (JSON Web Tokens) 
 MySQL for the database
-
+```
+```
 env file:
 DB_HOST=your-database-host
 DB_PORT=your-database-port
@@ -17,7 +18,7 @@ DB_USER=your-database-user
 APP_PORT=your-APP-port
 JWT_SECRET=your-access-token-secret
 JWT_REFRESH_SECRET=your-refresh-token-secret
-
+```
 The project was testing with Postman. All the requests to test the API are available in the public folder.
 
 Start the server:
